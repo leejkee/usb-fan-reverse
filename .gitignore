@@ -1,0 +1,8 @@
+.history/
+*-backups/
+*.kicad_prl
+*.lck
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
